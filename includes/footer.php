@@ -1,0 +1,2 @@
+<footer class="bg-night text-light py-5 mt-5"><div class="container d-flex justify-content-between flex-wrap gap-3"><div><strong><i class="fa-solid fa-vr-cardboard text-gold"></i> AR Tourism Explorer</strong><p class="small text-white-50 mb-0 mt-2">Culture, places, and stories brought to life.</p></div><div class="small text-white-50">Camera access requires HTTPS except localhost.</div></div></footer>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script><script src="<?= e(BASE_URL) ?>assets/js/app.js"></script></body></html>
